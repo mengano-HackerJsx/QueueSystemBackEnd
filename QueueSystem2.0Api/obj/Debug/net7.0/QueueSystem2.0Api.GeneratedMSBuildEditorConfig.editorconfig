@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QueueSystem2._0Api
+build_property.RootNamespace = QueueSystem2._0Api
+build_property.ProjectDir = C:\Users\Da Vinci\Desktop\sistema de cola\QueueSystem2.0\QueueSystem2.0Api\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Da Vinci\Desktop\sistema de cola\QueueSystem2.0\QueueSystem2.0Api
+build_property._RazorSourceGeneratorDebug = 

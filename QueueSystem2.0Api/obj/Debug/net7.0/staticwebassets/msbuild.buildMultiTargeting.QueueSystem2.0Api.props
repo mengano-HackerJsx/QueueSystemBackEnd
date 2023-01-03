@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QueueSystem2.0Api.props" />
+</Project>

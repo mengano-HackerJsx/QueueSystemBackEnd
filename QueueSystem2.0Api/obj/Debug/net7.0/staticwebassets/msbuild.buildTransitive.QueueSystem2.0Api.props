@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QueueSystem2.0Api.props" />
+</Project>
